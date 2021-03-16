@@ -16,7 +16,7 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/ardhixsquerpants/A-PROJECTv2
-> cd A-PROJECT
+> cd A-PROJECTv2
 > bash install.sh
 > node index.js
 ```
