@@ -106,6 +106,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠➥ *${_p}magernulis2 [Teks]*
 ╠➥ *${_p}toimg (TagStiker)*
 ╠➥ *${_p}ttp [Teks]*
+╠➥ *${_p}customtahta [t/t/t]
 ╠➥ *${_p}tahta [Teks] (Limit)*
 ╠➥ *${_p}tahta2 [Teks]*
 ╠➥ *${_p}qr [Teks]*
