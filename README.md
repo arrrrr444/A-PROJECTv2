@@ -1,6 +1,7 @@
-<p align="center">
 ![](tmp/A-PROJECT.jpg
-<img src="": "https://raw.githubusercontent.com/ardhixsquerpants/A-PROJECTv2/main/A-PROJECT.jpg" width="300" height="300"/>
+<p align="center">
+<img src="tmp/A-PROJECT.jpg" width="300" height="300"/>
+<img src="": "hhhh" width="300" height="300"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Bot Termux A PROJECT-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
