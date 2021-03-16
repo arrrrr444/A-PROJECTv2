@@ -2,7 +2,7 @@
 <img src="tmp/A-PROJECT.jpg" width="250" height="250"/>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Bot Termux A PROJECT-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Bot Termux A PROJECTv2-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 ### INSTALL COMMAND
@@ -15,10 +15,8 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/ardhixsquerpants/A-PROJECT
+> git clone https://github.com/ardhixsquerpants/A-PROJECTv2
 > cd A-PROJECT
-> unzip A-PROJECT.zip
-> Ketik A enter
 > bash install.sh
 > node index.js
 ```
