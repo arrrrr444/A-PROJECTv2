@@ -1,5 +1,5 @@
 let handler = async(m, { conn, text }) => 
-if (!text) return conn.reply(m.chat, 'Silahkan masukan parameter Text', m)
+
 if (text > 10) return conn.reply(m.chat, '*Teks Terlalu Panjang!*\n_Maksimal 10 huruf!_', m)
 let link = 'https://onlydevcity.xyz/PubgTourSerti/img.php?nama=' + text
 conn.sendFile(m.chat, link, 'Ardi Ganz.png', '_Nih tod dah jadi_\n_*@IG:https://bit.ly/3cuEdvz*_', m)
