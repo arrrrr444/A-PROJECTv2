@@ -1,5 +1,5 @@
 <p align="center">
-<img src="tmp/A-PROJECT.jpg" width="300" height="300"/>
+<img src="tmp/A-PROJECT.jpg" width="250" height="250"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Bot Termux A PROJECT-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
