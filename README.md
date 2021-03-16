@@ -33,6 +33,7 @@
 |       ✅       | DOWNLOAD |
 |       ✅       | EXP & LIMIT |
 |       ✅       | GROUP |
+|       ✅       | JADI BOT |
 |       ✅       | OWNER |
 
 ## SPECIAL THANKS TO
