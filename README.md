@@ -41,8 +41,8 @@
 * <a href="https://github.com/Nurutomo/wabot-aq"><img alt="GitHub" src="https://img.shields.io/badge/NURUTOMO%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 # APIKEY
-* [![ZEKS](https://img.shields.io/badge/ZEKS-3b5998?style=flat-square&logo=ardi&logoColor=white)](https://api.zeks.xyz)
+* [![API ZEKS](https://img.shields.io/badge/ZEKS-3b5998?style=flat-square&logo=ardi&logoColor=white)](https://api.zeks.xyz)
 * [![VIDEFIKRI](https://img.shields.io/badge/VIDEFIKRI-3b5998?style=flat-square&logo=ardi&logoColor=white)](https://videfikri.com)
 * [![ZEKAIS](https://img.shields.io/badge/ZEKAIS-3b5998?style=flat-square&logo=ardi&logoColor=white)](https://zekais-api.herokuapp.com)
-* [![ONLY DEV CITY](https://img.shields.io/badge/ONLY DEV CITY-3b5998?style=flat-square&logo=ardi&logoColor=white)](https://onlydevcity.herokuapp.com)
+* [![ONLY DEV CITY](https://img.shields.io/badge/ONLYDEVCITY-3b5998?style=flat-square&logo=ardi&logoColor=white)](https://onlydevcity.herokuapp.com)
 * [![TOBZ](https://img.shields.io/badge/TOBZ-3b5998?style=flat-square&logo=ardi&logoColor=white)](https://tobz-api.herokuapp.com)
