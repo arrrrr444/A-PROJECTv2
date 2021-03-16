@@ -10,7 +10,6 @@
 ```bash
 > pkg update && pkg upgrade
 > pkg install bash -y
-> pkg install unzip -y
 > pkg install git -y
 > pkg install nodejs -y
 > pkg install ffmpeg -y
