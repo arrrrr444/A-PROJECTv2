@@ -8,7 +8,7 @@
 ### INSTALL COMMAND
 CEK YUTUB https://youtu.be/dAbXAqfJpdg
 
-#PREFIX
+## PREFIX
 ```bash
 /!#$%?\~.
 ```
