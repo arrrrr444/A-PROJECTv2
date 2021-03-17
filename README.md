@@ -8,6 +8,11 @@
 ### INSTALL COMMAND
 CEK YUTUB https://youtu.be/dAbXAqfJpdg
 
+#PREFIX
+```bash
+/!#$%?\~.
+```
+
 # Fitur
 
 | A |               LIST Fitur           |
