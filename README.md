@@ -6,10 +6,8 @@
 </p>
 
 ### INSTALL COMMAND
-
-```bash
 CEK YUTUB https://youtu.be/dAbXAqfJpdg
-```
+
 # Fitur
 
 | A |               LIST Fitur           |
