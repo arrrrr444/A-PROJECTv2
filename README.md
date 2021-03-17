@@ -8,16 +8,7 @@
 ### INSTALL COMMAND
 
 ```bash
-> pkg update && pkg upgrade
-> pkg install bash -y
-> pkg install git -y
-> pkg install nodejs -y
-> pkg install ffmpeg -y
-> pkg install imagemagick -y
-> git clone https://github.com/ardhixsquerpants/A-PROJECTv2
-> cd A-PROJECTv2
-> bash install.sh
-> node index.js
+CEK YUTUB https://youtu.be/dAbXAqfJpdg
 ```
 # Fitur
 
