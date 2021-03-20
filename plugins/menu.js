@@ -153,6 +153,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠➥ *${_p}nulis <teks>*
 ║
 ╠━❉ *《 OTHER 》* ❉━
+╠➥ *${_p}donasi*
 ╠➥ *${_p}igstalk <username>*
 ╠➥ *${_p}profile [@user]*
 ╠➥ *${_p}get <url>*
