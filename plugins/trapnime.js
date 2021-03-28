@@ -1,14 +1,13 @@
-let limit = 10
 let fetch = require('node-fetch')
-let handler = async (m, { conn }) => {
- let res = await fetch('https://tobz-api.herokuapp.com/api/nsfwtrap?apikey=BotWeA')
- let { result } = await res.json()
- let hasil = `*NIH TOD TRAPNIME/WARIA:V NYA*`
- conn.sendFile(m.chat, result, 'result.jpg', hasil, m)
+let handler = async (m, { text }) => {
+  let url = await fetch('https://waifu.pics/api/nsfw/trap')
+  let ardiganz = await url.json()
+  let hasil = `_*➸ Link ${ardiganz.url} Kali aja di butuhin*_`
+  conn.fakeReply(m.chat, '*_Sabar sedang mengirim hentai..._*','0@s.whatsapp.net','Orang sabar di sayang mantan:)')
+conn.sendFile(m.chat, ardiganz.url, 'filename', hasil)
 }
-handler.command = /^trapnime$/i
-handler.group = true
-handler.fail = null
+handler.command = /^hentai$/i
+handler.register = true
 handler.limit = true
 
 module.exports = handler
